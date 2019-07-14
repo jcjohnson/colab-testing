@@ -1,4 +1,5 @@
 import os
+import torch
 from torchvision.datasets import CIFAR10
 
 
