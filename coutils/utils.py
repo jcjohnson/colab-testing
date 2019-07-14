@@ -1,3 +1,6 @@
+import torch
+
+
 def tensor_to_image(tensor):
   """
   Convert a torch tensor into a numpy ndarray for visualization.
